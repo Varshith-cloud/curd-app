@@ -1,1 +1,2 @@
-Add README for CRUD Application
+## 🚀 Live Demo
+https://curd-app-puce.vercel.app
